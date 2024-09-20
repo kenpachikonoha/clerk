@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+npm run format | grep -v 'unchanged)$' 
+

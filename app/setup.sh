@@ -1,0 +1,1 @@
+brew update && brew install watchman && npm install && npx expo install && npx expo prebuild && npx pod-install 
